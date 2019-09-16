@@ -1,0 +1,5 @@
+export const GETTING_FILTER_DATA = 'GETTING_FILTER_DATA';
+export const GETTING_ERROR = 'GETTING_ERROR';
+export const START_LOADER = 'START_LOADER';
+export const CLEAR_MOVIES = 'CLEAR_MOVIES';
+export const STOP_LOADING = 'STOP_LOADING';

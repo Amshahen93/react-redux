@@ -1,0 +1,14 @@
+.MoviesList{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(90deg, rgb(0, 71, 204) 0%, rgba(0, 122, 204, 0.719) 37%, rgba(0, 122, 204, 0.329) 100%);
+}
+.loader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    color: white;
+}
